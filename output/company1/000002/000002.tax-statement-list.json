@@ -1,0 +1,60 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax3922" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "09-426-3800",
+        "taxFormDate" : "2024-12-31",
+        "issuer" : {
+          "tin" : "00-0194643",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Schimmel, Goyette and Carroll"
+          },
+          "address" : {
+            "line1" : "7866 Denver Knolls",
+            "city" : "Binstown",
+            "region" : "GA",
+            "postalCode" : "67594"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "leif.luettgen@gmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-58-1233",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Temple",
+            "last" : "Erdman"
+          },
+          "address" : {
+            "line1" : "4780 Kuhn Oval",
+            "city" : "Monahanchester",
+            "region" : "VA",
+            "postalCode" : "14708"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "federico.zboncak@yahoo.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "accountNumber" : "077-47815-7",
+        "optionGrantDate" : "2024-07-04",
+        "optionExerciseDate" : "2024-07-04",
+        "grantMarketValue" : 200,
+        "exerciseMarketValue" : 300,
+        "exercisePrice" : 400,
+        "numberOfShares" : 500,
+        "titleTransferDate" : "2024-07-04",
+        "grantDateExercisePrice" : 600
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}

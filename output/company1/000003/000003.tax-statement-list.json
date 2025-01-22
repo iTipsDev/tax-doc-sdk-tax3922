@@ -1,0 +1,60 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax3922" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "99-550-7445",
+        "taxFormDate" : "2024-12-31",
+        "issuer" : {
+          "tin" : "00-0194643",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Schimmel, Goyette and Carroll"
+          },
+          "address" : {
+            "line1" : "7866 Denver Knolls",
+            "city" : "Binstown",
+            "region" : "GA",
+            "postalCode" : "67594"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "leif.luettgen@gmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-91-9059",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Reynaldo",
+            "last" : "Hermiston"
+          },
+          "address" : {
+            "line1" : "81599 Marisela Locks",
+            "city" : "Port Mosheville",
+            "region" : "OK",
+            "postalCode" : "57493"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "carolyn.corwin@yahoo.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "accountNumber" : "086-72761-1",
+        "optionGrantDate" : "2024-07-04",
+        "optionExerciseDate" : "2024-07-04",
+        "grantMarketValue" : 200,
+        "exerciseMarketValue" : 300,
+        "exercisePrice" : 400,
+        "numberOfShares" : 500,
+        "titleTransferDate" : "2024-07-04",
+        "grantDateExercisePrice" : 600
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
