@@ -1,0 +1,49 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "78-773-3305",
+  "taxFormId" : "0599887",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0901270",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Sporer-Nienow"
+    },
+    "address" : {
+      "line1" : "42392 Maia Crest",
+      "city" : "Lakinfurt",
+      "region" : "MA",
+      "postalCode" : "83408"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lazaro.dietrich@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-75-0269",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Merry",
+      "last" : "Smitham"
+    },
+    "address" : {
+      "line1" : "8580 Rudolph Extensions",
+      "city" : "West Bryce",
+      "region" : "NJ",
+      "postalCode" : "90389"
+    },
+    "email" : "kris.bernhard@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "094-66772-9",
+  "optionGrantDate" : "2025-10-04",
+  "optionExerciseDate" : "2025-03-13",
+  "grantMarketValue" : 200,
+  "exerciseMarketValue" : 300,
+  "exercisePrice" : 400,
+  "numberOfShares" : 500,
+  "titleTransferDate" : "2025-03-15",
+  "grantDateExercisePrice" : 600
+}
