@@ -1,0 +1,49 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "79-411-1059",
+  "taxFormId" : "2219787",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0901270",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Sporer-Nienow"
+    },
+    "address" : {
+      "line1" : "42392 Maia Crest",
+      "city" : "Lakinfurt",
+      "region" : "MA",
+      "postalCode" : "83408"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lazaro.dietrich@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-16-4658",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Claude",
+      "last" : "Bradtke"
+    },
+    "address" : {
+      "line1" : "56162 Okuneva Knolls",
+      "city" : "South Simonberg",
+      "region" : "NY",
+      "postalCode" : "87152"
+    },
+    "email" : "yuonne.turcotte@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "620-14606-3",
+  "optionGrantDate" : "2025-04-11",
+  "optionExerciseDate" : "2025-06-03",
+  "grantMarketValue" : 200,
+  "exerciseMarketValue" : 300,
+  "exercisePrice" : 400,
+  "numberOfShares" : 500,
+  "titleTransferDate" : "2025-06-05",
+  "grantDateExercisePrice" : 600
+}
