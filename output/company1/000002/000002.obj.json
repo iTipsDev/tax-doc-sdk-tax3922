@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "31-031-6363",
+  "taxFormId" : "8120501",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0849503",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Braun-Greenfelder"
+    },
+    "address" : {
+      "line1" : "592 Stanton View",
+      "city" : "Mayerttown",
+      "region" : "UT",
+      "postalCode" : "35022",
+      "unitType" : "Apt",
+      "unitNumber" : "713"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "coralee.haley@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-47-1922",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jenee",
+      "middle" : "Susanna",
+      "last" : "Johnson"
+    },
+    "businessName" : {
+      "name1" : "MacGyver, Quitzon and Orn"
+    },
+    "address" : {
+      "line1" : "4617 Jules Highway",
+      "city" : "New Sherilynstad",
+      "region" : "HI",
+      "postalCode" : "51381",
+      "unitType" : "Apt",
+      "unitNumber" : "348"
+    },
+    "email" : "rene.beatty@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "540-07957-5",
+  "optionGrantDate" : "2026-12-12",
+  "optionExerciseDate" : "2026-06-09",
+  "grantMarketValue" : 200,
+  "exerciseMarketValue" : 300,
+  "exercisePrice" : 400,
+  "numberOfShares" : 500,
+  "titleTransferDate" : "2026-11-20",
+  "grantDateExercisePrice" : 600
+}

@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "59-609-0394",
+  "taxFormId" : "9935202",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0849503",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Braun-Greenfelder"
+    },
+    "address" : {
+      "line1" : "592 Stanton View",
+      "city" : "Mayerttown",
+      "region" : "UT",
+      "postalCode" : "35022",
+      "unitType" : "Apt",
+      "unitNumber" : "713"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "coralee.haley@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-94-8156",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Britt",
+      "middle" : "Johnnie",
+      "last" : "Haley"
+    },
+    "businessName" : {
+      "name1" : "Bergstrom-Moore"
+    },
+    "address" : {
+      "line1" : "244 Siobhan Cliffs",
+      "city" : "Beattybury",
+      "region" : "GA",
+      "postalCode" : "12566",
+      "unitType" : "Apt",
+      "unitNumber" : "952"
+    },
+    "email" : "dale.goyette@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "959-41195-2",
+  "optionGrantDate" : "2026-12-16",
+  "optionExerciseDate" : "2026-04-21",
+  "grantMarketValue" : 200,
+  "exerciseMarketValue" : 300,
+  "exercisePrice" : 400,
+  "numberOfShares" : 500,
+  "titleTransferDate" : "2026-03-12",
+  "grantDateExercisePrice" : 600
+}

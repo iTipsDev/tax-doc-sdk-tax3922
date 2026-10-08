@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "26-977-0212",
+  "taxFormId" : "0271375",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0849503",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Braun-Greenfelder"
+    },
+    "address" : {
+      "line1" : "592 Stanton View",
+      "city" : "Mayerttown",
+      "region" : "UT",
+      "postalCode" : "35022",
+      "unitType" : "Apt",
+      "unitNumber" : "713"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "coralee.haley@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-45-4323",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Wilfred",
+      "middle" : "Aleta",
+      "last" : "Schaefer"
+    },
+    "businessName" : {
+      "name1" : "Jacobson Inc"
+    },
+    "address" : {
+      "line1" : "1211 Blick Groves",
+      "city" : "Lake Armand",
+      "region" : "MA",
+      "postalCode" : "93124",
+      "unitType" : "Apt",
+      "unitNumber" : "441"
+    },
+    "email" : "darren.johnson@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "805-18449-5",
+  "optionGrantDate" : "2026-05-17",
+  "optionExerciseDate" : "2026-05-01",
+  "grantMarketValue" : 200,
+  "exerciseMarketValue" : 300,
+  "exercisePrice" : 400,
+  "numberOfShares" : 500,
+  "titleTransferDate" : "2026-02-16",
+  "grantDateExercisePrice" : 600
+}
